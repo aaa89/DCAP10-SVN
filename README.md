@@ -1,3 +1,3 @@
 # DCAP10
 
-Este software funciona correctamente
+Este software funciona mal!!!
