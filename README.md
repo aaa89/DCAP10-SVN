@@ -6,11 +6,11 @@ descubierto fallo en commit a52c51cdfb05efdd3c4adf9f1b2e586ac7077575 mediante BI
 
 subiendo actualizaciones en nuevo commit sin fallos
 
-#npm
+**npm**
 
 Necesitamos hacer npm install para instalar las dependencias del proyecto
 
-#NGROK
+**NGROK**
 
 Para iniciar el webhook, debemos ejecutar el ejecutable ngrok de la siguiente manera:
 
